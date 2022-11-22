@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31521.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScatterChartGetStarted", "ScatterChartGetStarted\ScatterChartGetStarted.csproj", "{A37F86BA-C1FF-4F93-AC3B-09D11BA5B9E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScatterChartGetStarted", "ScatterChartGetStarted.csproj", "{A37F86BA-C1FF-4F93-AC3B-09D11BA5B9E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
