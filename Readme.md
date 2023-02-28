@@ -54,7 +54,6 @@ Refer to the [PieChartGetStarted](./CS/PieChartGetStarted/Readme.md) project for
 * [Data Grid](https://github.com/DevExpress-Examples/maui-data-grid-get-started)
 * [Data Form](https://github.com/DevExpress-Examples/maui-data-form-get-started)
 * [Data Editors](https://github.com/DevExpress-Examples/maui-editors-get-started)
-* [Charts](https://github.com/DevExpress-Examples/maui-charts)
 * [Scheduler](https://github.com/DevExpress-Examples/maui-scheduler-get-started)
 * [Tab Page](https://github.com/DevExpress-Examples/maui-tab-page-get-started)
 * [Tab View](https://github.com/DevExpress-Examples/maui-tab-view-get-started)
